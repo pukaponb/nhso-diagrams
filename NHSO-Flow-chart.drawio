@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T03:03:14.126Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="GMquoJsYIV3eQlo_sd0m" version="24.0.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-06T13:06:24.474Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="BdsCzHMFT1HejAlCHg3b" version="24.0.1" type="github" pages="7">
   <diagram name="Overviews" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="816" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -126,10 +126,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rSaH8NdVP8mn4lWI2dxP" name="BUDGET_001_FM">
-    <mxGraphModel dx="1306" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="816" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EPhtuEM1E1tdVWYiNVVR-2" value="rungnapa.m&#xa;P@ssw0rd@123" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EPhtuEM1E1tdVWYiNVVR-3" value="F-66-0-01-401-02-2" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EPhtuEM1E1tdVWYiNVVR-4" value="Procurement is a complex and multifaceted aspect of business operations &#xa;that requires careful consideration and strategic planning. From &#xa;sourcing suppliers to negotiating contracts and managing relationships, &#xa;the procurement process plays a crucial role in the success of an &#xa;organization. This comprehensive guide will delve into the intricacies &#xa;of procurement, providing in-depth insights, best practices, and &#xa;strategies for optimizing this essential function within a company." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="150" width="430" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EPhtuEM1E1tdVWYiNVVR-6" value="SEC-REVIEW-001" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="130" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="https://100.98.95.26" link="https://100.98.95.26" id="EPhtuEM1E1tdVWYiNVVR-7">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="150" y="10" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -166,55 +183,55 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w6cAZVfIFwaDcwH45HJJ" name="PROC_003_INT">
-    <mxGraphModel dx="1088" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YPrYw4atHl12UZ3xD424-3" value="PROC_003_INT_API-001&#xa;PROC_003_INT_API-002" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="YPrYw4atHl12UZ3xD424-3" value="PROC_003_INT_API-001&#xa;PROC_003_INT_API-002" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="70" y="50" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nejnaMu0npJQ8gBq4WCY-1" value="dpro-project-service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="nejnaMu0npJQ8gBq4WCY-1" value="dpro-project-service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="420" y="30" width="170" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="nejnaMu0npJQ8gBq4WCY-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nejnaMu0npJQ8gBq4WCY-1">
+        <mxCell id="nejnaMu0npJQ8gBq4WCY-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="nejnaMu0npJQ8gBq4WCY-1" vertex="1">
           <mxGeometry x="80" y="80" width="10" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-1" value="&lt;a data-sheets-formula-bar-text-style=&quot;font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;Arial&#39;;font-style:normal;text-decoration-skip-ink:none;&quot; class=&quot;waffle-rich-text-link&quot; data-sheets-formula-bar-text-link=&quot;https://nhsoapi.nhso.go.th/FMU/egp/v1/service&quot;&gt;https://nhsoapi.nhso.go.th/FMU/egp/v1/service&lt;/a&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-1" value="&lt;a data-sheets-formula-bar-text-style=&quot;font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;Arial&#39;;font-style:normal;text-decoration-skip-ink:none;&quot; class=&quot;waffle-rich-text-link&quot; data-sheets-formula-bar-text-link=&quot;https://nhsoapi.nhso.go.th/FMU/egp/v1/service&quot;&gt;https://nhsoapi.nhso.go.th/FMU/egp/v1/service&lt;/a&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="780" y="30" width="170" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VUPY7YrWBb2VEkZ5RYBU-1">
+        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="VUPY7YrWBb2VEkZ5RYBU-1" vertex="1">
           <mxGeometry x="80" y="124" width="10" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-4" value="&lt;a data-sheets-formula-bar-text-link=&quot;https://dprodev.uat.krungthai.com/nsho/int-egp-service/v1/proc-003-int&quot; class=&quot;waffle-rich-text-link&quot; data-sheets-formula-bar-text-style=&quot;font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;Arial&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;int-egp-service&lt;/a&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-4" value="&lt;a data-sheets-formula-bar-text-link=&quot;https://dprodev.uat.krungthai.com/nsho/int-egp-service/v1/proc-003-int&quot; class=&quot;waffle-rich-text-link&quot; data-sheets-formula-bar-text-style=&quot;font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;Arial&#39;;font-style:normal;text-decoration-skip-ink:none;&quot;&gt;int-egp-service&lt;/a&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="600" y="30" width="170" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VUPY7YrWBb2VEkZ5RYBU-4">
+        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="VUPY7YrWBb2VEkZ5RYBU-4" vertex="1">
           <mxGeometry x="80" y="100" width="10" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="130.0033333333334" as="sourcePoint" />
             <mxPoint x="680" y="130.0033333333334" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-7" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-7" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="154.83333333333337" as="sourcePoint" />
             <mxPoint x="860" y="154.83333333333337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-11" value="restapi&lt;br&gt;xml" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VUPY7YrWBb2VEkZ5RYBU-7">
+        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-11" value="restapi&lt;br&gt;xml" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VUPY7YrWBb2VEkZ5RYBU-7" vertex="1" connectable="0">
           <mxGeometry x="-0.1039" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="199.33333333333337" as="sourcePoint" />
             <mxPoint x="690" y="199.33333333333337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-10" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+        <mxCell id="VUPY7YrWBb2VEkZ5RYBU-10" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="229.83333333333337" as="sourcePoint" />
             <mxPoint x="510" y="229.83333333333337" as="targetPoint" />
